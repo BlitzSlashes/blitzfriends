@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/blitzfriends/static/css/main.69e637e8.chunk.css",
+    "main.js": "/blitzfriends/static/js/main.163f2ac7.chunk.js",
+    "main.js.map": "/blitzfriends/static/js/main.163f2ac7.chunk.js.map",
+    "runtime-main.js": "/blitzfriends/static/js/runtime-main.3d41322b.js",
+    "runtime-main.js.map": "/blitzfriends/static/js/runtime-main.3d41322b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/blitzfriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ca4a7502.chunk.js": "/blitzfriends/static/js/2.ca4a7502.chunk.js",
+    "static/js/2.ca4a7502.chunk.js.map": "/blitzfriends/static/js/2.ca4a7502.chunk.js.map",
+    "index.html": "/blitzfriends/index.html",
+    "precache-manifest.f1842399e037119321fd5be3c2538f2d.js": "/blitzfriends/precache-manifest.f1842399e037119321fd5be3c2538f2d.js",
+    "service-worker.js": "/blitzfriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/blitzfriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.69e637e8.chunk.css.map": "/blitzfriends/static/css/main.69e637e8.chunk.css.map",
+    "static/js/2.ca4a7502.chunk.js.LICENSE.txt": "/blitzfriends/static/js/2.ca4a7502.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/blitzfriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d41322b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ca4a7502.chunk.js",
+    "static/css/main.69e637e8.chunk.css",
+    "static/js/main.163f2ac7.chunk.js"
+  ]
+}
